@@ -14,7 +14,7 @@ Install [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac
 Under Docker's preferences, change the following configuration:
 
 * On the **Advanced** tab, increase CPUs to the halfway mark and Memory as high as you are comfortable with on your environment.
-* On the **Kubernetes** tab check **Enable Kubernetes**.
+* On the **Kubernetes** tab check **Enable Kubernetes** and choose **Kubernetes**(Not Swarm).
 
 #### Linux
 
